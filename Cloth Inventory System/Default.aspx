@@ -15,6 +15,7 @@
              <div class="d-flex align-items-center justify-content-between flex-wrap">
                <div class="border-right pe-4 mb-3 mb-xl-0">
                  <p class="text-muted">Balance</p>
+
                  <h4 class="mb-0 fw-bold">$40079.60 M</h4>
                </div>
                <div class="border-right pe-4 mb-3 mb-xl-0">
